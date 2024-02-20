@@ -13,7 +13,7 @@ GOOGLE_MAIL_NODEMAILER_PASSWORD = apppasswordfornodemailer
 ```
 
 - note:
-  - the **GOOGLE_MAIL_ACCOUNT_USER** is the E-mail address you set up from which mails will be sent
+  - the **GOOGLE_MAIL_ACCOUNT_USER** is the E-mail address you set up from which mails will be sent, e.g. the users of your app will receive messages from this address
   - the **GOOGLE_MAIL_NODEMAILER_PASSWORD** is the app password that was created when you set up this Google mail account to be used from an app
 
 - for example:
