@@ -29,4 +29,4 @@ GOOGLE_MAIL_NODEMAILER_PASSWORD = ihwiwjksjdgxyeub
 
 ## More info
 
-[HOWTO: How to set up a Gmail account and use nodemailer to send emails from Node using TypeScript/ES6-modules](https://edwardtanguay.vercel.app/howtos?id=682) 
+[HOWTO: How to set up Google Account to use NodeMailer and send mails from your online Node/Express application](https://edwardtanguay.vercel.app/howtos?id=682) 
