@@ -11,14 +11,17 @@ This code uses **Node** and **nodemailer** to send mails for free.
 GOOGLE_MAIL_ACCOUNT_USER = googleaccountusername
 GOOGLE_MAIL_NODEMAILER_PASSWORD = apppasswordfornodemailer
 ```
+
+- note:
+  - the **GOOGLE_MAIL_ACCOUNT_USER** is the E-mail address you set up from which mails will be sent
+  - the **GOOGLE_MAIL_NODEMAILER_PASSWORD** is the app password that was created when you set up this Google mail account to be used from an app
+
 - for example:
 
 ```
-GOOGLE_MAIL_ACCOUNT_USER = berlinreadingclub@gmail.com (the Google mail account you set up from which mails will be sent)
-GOOGLE_MAIL_NODEMAILER_PASSWORD = ihwiwjksjdgxyeub (the app password that you created for this Google mail account, see howto below)
+GOOGLE_MAIL_ACCOUNT_USER = berlinreadingclub@gmail.com 
+GOOGLE_MAIL_NODEMAILER_PASSWORD = ihwiwjksjdgxyeub 
 ```
-
-Note that the password is not the main password for your Google account, but the special **app password** that you set up for NodeMailer, see howto below.
 
 ## Execution
 
